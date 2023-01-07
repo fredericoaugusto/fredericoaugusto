@@ -3,9 +3,14 @@
 Sou um desenvolvedor frontend apaixonado por tecnologia.
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredericoaugusto&layout=compact&show_icons=true&theme=blue-green)](https://github.com/fredericoaugusto/github-readme-stats)
-[![Frederico's GitHub stats](https://github-readme-stats.vercel.app/api?username=fredericoaugusto&show_icons=true&theme=blue-green)](https://github.com/fredericoaugusto/github-readme-stats)
-
+<div style="display: inline_block">
+  
+  <a href="https://github.com/fredericoaugusto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fredericoaugusto&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/fredericoaugusto/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredericoaugusto&layout=compact&show_icons=true&theme=blue-green"/>
+    
+</div>
 
 
 ### Tecnologias que uso no meu dia 
@@ -28,5 +33,6 @@ Sou um desenvolvedor frontend apaixonado por tecnologia.
 <br><br>
 
 📫 Pode entrar em contato pelo <br><br>
+  <a href="mailto:fred3112.augusto@gmail.com"><img alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fredericoaugustodev/)
 </div>
