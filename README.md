@@ -1,6 +1,6 @@
 
 ### Olá 👋 eu sou Frederico
-Apaixonado por tecnologia e por frontend.
+Sou um desenvolvedor frontend apaixonado por tecnologia.
 <br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredericoaugusto&layout=compact&show_icons=true&theme=blue-green)](https://github.com/fredericoaugusto/github-readme-stats)
