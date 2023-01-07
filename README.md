@@ -8,7 +8,7 @@ Sou um desenvolvedor frontend apaixonado por tecnologia.
   <a href="https://github.com/fredericoaugusto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fredericoaugusto&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <a href="https://github.com/fredericoaugusto/github-readme-stats">
-  <img height="180em" width="500em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredericoaugusto&layout=compact&show_icons=true&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredericoaugusto&layout=compact&show_icons=true&theme=blue-green"/>
     
 </div>
 
