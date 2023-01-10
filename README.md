@@ -36,3 +36,6 @@ Sou um desenvolvedor frontend apaixonado por tecnologia.
   <a href="mailto:fred3112.augusto@gmail.com"><img alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fredericoaugustodev/)
 </div>
+
+
+![Snake animation](https://github.com/AdrianoBinhara/AdrianoBinhara/blob/output/github-contribution-grid-snake.svg)
